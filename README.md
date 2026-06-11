@@ -11,8 +11,7 @@ Double-click Start Visualizer.bat. First run installs three packages automatical
 
 Hotkeys
 
-KeyAction← / →previous / next style↑ / ↓color paletteSpacerandom styleAauto-cycle styles every 25sDswitch audio source (system audio ↔ microphones)Ffullscreen ↔ borderless window+ / −sensitivityHhelp overlayDragmove window (windowed mode)Right-clicknext styleEsc / Qquit
-
+KeyAction ← / → previous / next style ↑ / ↓ color / fullscreen ↔  / borderless window+ / −sensitivity 
 Notes
 
 
